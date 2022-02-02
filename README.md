@@ -12,12 +12,14 @@
     * [ ] Continued
   * [X] Malicious behaviour
     * [x] Continued
+  * [X] Malicious conduct
   * [X] Harassment
   * [X] Use of hateful avatars
   * [ ] Creation of content with malicious crashing effects
   * [ ] Creation of content instructing users how to violate VRChat Terms of Service
   * [X] Violations of the VRChat Terms of Service
     * [x] Continued
+    * [x] Repeated
   * [ ] Malicious client development
   * [ ] Trying to ERP with Tupper
 </details>
