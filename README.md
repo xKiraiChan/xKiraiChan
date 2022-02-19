@@ -10,11 +10,13 @@
   * [X] Account compromised
   * [X] Ban evasion
     * [ ] Continued
+  * [ ] Disruption
   * [X] Malicious behaviour
     * [x] Continued
   * [X] Malicious conduct
   * [X] Harassment
   * [X] Use of hateful avatars
+  * [ ] Creation of disruptive or malicious avatars
   * [ ] Creation of content with malicious crashing effects
   * [ ] Creation of content instructing users how to violate VRChat Terms of Service
   * [X] Violations of the VRChat Terms of Service
