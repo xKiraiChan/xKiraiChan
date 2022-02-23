@@ -14,6 +14,7 @@
   * [X] Malicious behaviour
     * [x] Continued
   * [X] Malicious conduct
+    * [X] Use of disruptive or malicious avatars to crash users
   * [X] Harassment
   * [X] Use of hateful avatars
   * [ ] Creation of disruptive or malicious avatars
