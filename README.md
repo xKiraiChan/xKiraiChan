@@ -34,4 +34,7 @@
   - `#ccccff` | Secondary
   - `#8480e5` | TI Purple
   - `#f37e67` | TI Orange
+  - `#8a89cb` | TI Blue
+  - `#d68876` | TI Red
+  - `#eadaea` | TI White
 </details>
